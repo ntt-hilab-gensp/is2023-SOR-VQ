@@ -37,14 +37,14 @@ td, th {
   text-align: center ;
 }
 th {
-  background-color: rgba(153,189,255,1);
+  background-color: rgba(135,206,250,1);
 }
 
 
 header {
   height:auto;
   width: 100%;
-  background-color: rgba(128,172,255,1);
+  background-color: rgba(135,206,250,1);
   top: 0;
   z-index: 10;
   text-align: center;
